@@ -67,7 +67,7 @@ The assistant leverages vector search, embeddings, and large language models to 
 
 ## Project Status
 
-Currently under active development as part of an AI engineering portfolio focused on LLM applications, AI agents, and workflow automation systems.
+Completed foundational implementation of the AI research workflow, including document ingestion, vector search pipeline design, and LLM-based response generation. Currently expanding features and optimizing workflow automation capabilities.
 
 ## Author
 
