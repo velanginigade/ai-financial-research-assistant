@@ -108,6 +108,24 @@ This project was built to deepen practical understanding of:
 - AI-powered automation systems
 - Backend API integration patterns
 
+## Sample Workflow
+
+1. Upload financial documents
+2. Extract and process text
+3. Generate embeddings
+4. Store vectors in FAISS
+5. Retrieve relevant financial context
+6. Generate AI-powered responses
+7. Display summarized insights
+
+## Future Scope
+
+- AI agent orchestration
+- Multi-document financial analysis
+- Real-time financial data integration
+- Conversational memory support
+- Cloud-native deployment workflows
+
 ## Author
 
 Velangini Gade
