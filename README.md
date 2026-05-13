@@ -69,6 +69,21 @@ The assistant leverages vector search, embeddings, and large language models to 
 
 Completed foundational implementation of the AI research workflow, including document ingestion, vector search pipeline design, and LLM-based response generation. Currently expanding features and optimizing workflow automation capabilities.
 
+## Repository Structure
+
+```bash
+ai-financial-research-assistant/
+│
+├── app.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+├── data/
+├── docs/
+├── notebooks/
+├── screenshots/
+
 ## Author
 
 Velangini Gade
