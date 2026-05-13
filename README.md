@@ -83,6 +83,30 @@ ai-financial-research-assistant/
 ├── docs/
 ├── notebooks/
 ├── screenshots/
+## API Endpoints
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/` | GET | Application status endpoint |
+| `/health` | GET | Health check endpoint |
+
+## Planned Enhancements
+
+- Multi-document financial comparison
+- Conversational memory for AI agents
+- Financial dashboard integration
+- Cloud deployment using AWS
+- Authentication and user session management
+- Agent orchestration workflows
+
+## Learning Goals
+
+This project was built to deepen practical understanding of:
+- Retrieval-Augmented Generation (RAG)
+- Vector databases and semantic search
+- LLM orchestration workflows
+- AI-powered automation systems
+- Backend API integration patterns
 
 ## Author
 
